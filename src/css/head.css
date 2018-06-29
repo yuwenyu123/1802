@@ -1,0 +1,144 @@
+#head {
+  width: 1350px;
+  height: 30px;
+  color: #fff;
+  background-color: #666; }
+  #head .head_l {
+    width: 675px;
+    float: left; }
+    #head .head_l p {
+      font-size: 14px;
+      line-height: 30px;
+      padding-left: 10px; }
+  #head .head_r {
+    width: 675px;
+    float: right; }
+    #head .head_r > ul {
+      float: right;
+      margin-right: 5px; }
+      #head .head_r > ul > li {
+        float: left;
+        cursor: pointer; }
+        #head .head_r > ul > li > p {
+          padding: 0 8px;
+          font-size: 12px;
+          line-height: 30px; }
+      #head .head_r > ul li:hover {
+        background-color: #ABABAB; }
+      #head .head_r > ul .l1 {
+        position: relative; }
+        #head .head_r > ul .l1 .code {
+          width: 79px;
+          height: 100px;
+          border: 1px solid #686868;
+          box-shadow: 3px 3px #CECECE;
+          background-color: #fff;
+          z-index: 100;
+          display: none;
+          position: absolute;
+          right: 0px;
+          top: 30px; }
+          #head .head_r > ul .l1 .code p {
+            text-align: center;
+            color: #737373;
+            font-size: 13px; }
+          #head .head_r > ul .l1 .code img {
+            width: 66px;
+            height: 66px;
+            border: 0 none;
+            display: block;
+            margin: 0 auto; }
+      #head .head_r > ul .l1:hover .code {
+        display: block; }
+      #head .head_r > ul .l2 .a22 {
+        display: block;
+        color: #fff;
+        padding: 0 8px;
+        font-size: 12px;
+        line-height: 30px; }
+      #head .head_r > ul .l3 {
+        position: relative; }
+        #head .head_r > ul .l3 .discounts {
+          display: none;
+          z-index: 100;
+          background-color: #fff;
+          width: 1200px;
+          height: 224px;
+          border: 1px solid #686868;
+          box-shadow: 3px 3px #CECECE;
+          cursor: auto;
+          position: absolute;
+          right: 0px;
+          top: 30px; }
+          #head .head_r > ul .l3 .discounts .p2 {
+            font-size: 14px;
+            line-height: 14px;
+            font-weight: 700;
+            color: #666;
+            text-align: left;
+            padding: 5px 0 5px 15px; }
+          #head .head_r > ul .l3 .discounts ul {
+            padding: 0 20px; }
+            #head .head_r > ul .l3 .discounts ul li {
+              float: left;
+              width: 19%;
+              color: #666;
+              margin: 0 0.5%; }
+              #head .head_r > ul .l3 .discounts ul li img {
+                width: 100%; }
+              #head .head_r > ul .l3 .discounts ul li .p1 {
+                font-size: 12px;
+                line-height: 18px;
+                color: #666;
+                padding-top: 10px; }
+            #head .head_r > ul .l3 .discounts ul li:hover .a33 {
+              display: block;
+              background-color: #fff; }
+              #head .head_r > ul .l3 .discounts ul li:hover .a33 .p1 {
+                text-decoration: underline;
+                color: #bf0000; }
+          #head .head_r > ul .l3 .discounts .last {
+            float: right;
+            margin-right: 15px; }
+            #head .head_r > ul .l3 .discounts .last .abc {
+              color: #666; }
+            #head .head_r > ul .l3 .discounts .last .abc:hover {
+              text-decoration: underline;
+              color: #bf0000; }
+      #head .head_r > ul .l3:hover .discounts {
+        display: block; }
+      #head .head_r > ul .l4 {
+        position: relative; }
+        #head .head_r > ul .l4 .help {
+          width: 360px;
+          height: 224px;
+          padding: 7px 23px 10px;
+          border: 1px solid #686868;
+          box-shadow: 3px 3px #CECECE;
+          display: none;
+          z-index: 100;
+          background-color: #fff;
+          position: absolute;
+          right: 0px;
+          top: 30px; }
+          #head .head_r > ul .l4 .help p {
+            color: #666;
+            font-size: 14px;
+            font-weight: 700px;
+            padding-bottom: 3px;
+            border-bottom: 1px solid #DBDBDB; }
+          #head .head_r > ul .l4 .help ul {
+            float: left;
+            font-size: 14px; }
+            #head .head_r > ul .l4 .help ul li {
+              padding: 9px 0 2px;
+              cursor: auto; }
+              #head .head_r > ul .l4 .help ul li a {
+                color: #666;
+                display: block; }
+            #head .head_r > ul .l4 .help ul li:hover {
+              background-color: #fff; }
+          #head .head_r > ul .l4 .help .u1 {
+            margin-right: 60px; }
+      #head .head_r > ul .l4:hover .help {
+        display: block; }

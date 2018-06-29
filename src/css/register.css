@@ -1,0 +1,94 @@
+#register_top {
+  margin: 0 10px;
+  height: 82px;
+  border-bottom: 2px solid #bf0000;
+  overflow: hidden; }
+  #register_top h1 {
+    width: 200px;
+    height: 82px;
+    float: left;
+    text-indent: -1000px;
+    background: url("../img/login_logo.png") no-repeat;
+    cursor: pointer; }
+  #register_top .top {
+    height: 80px;
+    float: right;
+    text-align: right; }
+    #register_top .top p:nth-child(1) {
+      font-size: 13px;
+      line-height: 13px;
+      margin-top: 28px;
+      cursor: pointer;
+      text-decoration: underline;
+      color: #0000F0;
+      font-weight: bold; }
+    #register_top .top p:nth-child(2) {
+      font-size: 13px;
+      line-height: 13px;
+      margin-top: 6px;
+      cursor: pointer;
+      text-decoration: underline;
+      color: #0000F0;
+      font-weight: bold; }
+
+#register_main h2 {
+  font-size: 40px;
+  line-height: 100px;
+  text-align: center; }
+
+#register_main .reg {
+  width: 600px;
+  border: 1px solid #ccc;
+  height: 200px;
+  margin: 0 auto;
+  position: relative; }
+  #register_main .reg input {
+    width: 300px;
+    height: 30px;
+    border: 1px solid #ccc;
+    padding-left: 5px; }
+  #register_main .reg .reg1 {
+    position: absolute;
+    top: 20px;
+    left: 50px; }
+    #register_main .reg .reg1 span {
+      padding-left: 55px;
+      color: red; }
+  #register_main .reg .reg2 {
+    position: absolute;
+    top: 80px;
+    left: 65px; }
+    #register_main .reg .reg2 span {
+      padding-left: 40px; }
+  #register_main .reg .reg3 {
+    position: absolute;
+    top: 144px;
+    left: 48px; }
+    #register_main .reg .reg3 input {
+      width: 118px;
+      height: 30px;
+      border: 1px solid #ccc;
+      padding-left: 5px; }
+    #register_main .reg .reg3 .reg3_y {
+      display: block;
+      background-color: #f7f9fd;
+      width: 80px;
+      height: 30px;
+      text-align: center;
+      line-height: 30px;
+      position: absolute;
+      top: 0px;
+      left: 180px; }
+  #register_main .reg a {
+    display: block;
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ccc;
+    position: absolute;
+    top: 30px;
+    right: 60px;
+    text-align: center;
+    line-height: 100px;
+    background-color: #f11d13;
+    color: #fff;
+    border-radius: 15px 5px 25px 0px; }

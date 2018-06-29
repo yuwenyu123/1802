@@ -1,0 +1,161 @@
+#bottom {
+  width: 1350px;
+  height: 445px;
+  background-color: #eee;
+  position: relative; }
+  #bottom .guide {
+    width: 1350px;
+    height: 325px;
+    overflow: hidden; }
+    #bottom .guide .y_guide {
+      width: 330px;
+      height: 325px;
+      padding-left: 28px;
+      margin-right: 10px;
+      float: left; }
+      #bottom .guide .y_guide h4 {
+        font-size: 16px;
+        color: #333;
+        line-height: 46px;
+        font-weight: bold; }
+      #bottom .guide .y_guide ul li a {
+        font-size: 14px;
+        line-height: 20px;
+        color: #737373; }
+      #bottom .guide .y_guide ul li a:hover {
+        text-decoration: underline; }
+    #bottom .guide .guide_4 {
+      margin-right: 0; }
+      #bottom .guide .guide_4 ul {
+        height: 85px; }
+        #bottom .guide .guide_4 ul li {
+          padding-bottom: 10px; }
+          #bottom .guide .guide_4 ul li a {
+            position: relative; }
+            #bottom .guide .guide_4 ul li a i {
+              display: block;
+              width: 32px;
+              height: 32px;
+              background: url("../img/sprites.png") no-repeat -620px 0;
+              position: absolute;
+              left: 0px;
+              top: 10px; }
+  #bottom .download {
+    font-size: 16px;
+    line-height: 16px;
+    color: #333;
+    font-weight: bold;
+    margin-bottom: 10px;
+    position: absolute;
+    left: 1048px;
+    top: 140px; }
+  #bottom .code {
+    position: absolute;
+    left: 1048px;
+    top: 170px; }
+    #bottom .code ul li {
+      padding: 0; }
+      #bottom .code ul li a img {
+        margin-right: 10px; }
+      #bottom .code ul li a .img1 {
+        display: block;
+        height: 40px;
+        margin-bottom: 5px; }
+      #bottom .code ul li .img2 {
+        display: none; }
+    #bottom .code ul li:nth-child(1) {
+      position: relative; }
+      #bottom .code ul li:nth-child(1) .img2 {
+        position: absolute;
+        height: 100px;
+        left: 5px;
+        top: 45px;
+        z-index: 100; }
+    #bottom .code ul li:nth-child(1):hover .img2 {
+      display: block; }
+    #bottom .code ul li:nth-child(2) {
+      position: relative; }
+      #bottom .code ul li:nth-child(2) .img2 {
+        position: absolute;
+        height: 100px;
+        left: 20px;
+        top: 45px;
+        z-index: 100; }
+    #bottom .code ul li:nth-child(2):hover .img2 {
+      display: block; }
+    #bottom .code ul li:nth-child(3) {
+      position: relative; }
+      #bottom .code ul li:nth-child(3) .img2 {
+        position: absolute;
+        height: 100px;
+        left: -25px;
+        top: 45px;
+        z-index: 100; }
+    #bottom .code ul li:nth-child(3):hover .img2 {
+      display: block; }
+    #bottom .code ul li:nth-child(4) {
+      position: relative; }
+      #bottom .code ul li:nth-child(4) .img2 {
+        position: absolute;
+        height: 100px;
+        left: -25px;
+        top: 45px;
+        z-index: 100; }
+    #bottom .code ul li:nth-child(4):hover .img2 {
+      display: block; }
+    #bottom .code ul li:nth-child(5) {
+      position: relative; }
+      #bottom .code ul li:nth-child(5) .img2 {
+        position: absolute;
+        height: 100px;
+        left: -25px;
+        top: 45px;
+        z-index: 100; }
+    #bottom .code ul li:nth-child(5):hover .img2 {
+      display: block; }
+  #bottom .nav {
+    height: 20px;
+    overflow: hidden; }
+    #bottom .nav h3 {
+      height: 20px;
+      padding-left: 30px;
+      font-size: 16px;
+      line-height: 20px;
+      color: #333;
+      float: left; }
+    #bottom .nav ul {
+      height: 20px;
+      float: left; }
+      #bottom .nav ul li {
+        float: left;
+        padding-left: 15px; }
+        #bottom .nav ul li a {
+          font-size: 12px;
+          line-height: 20px;
+          color: #737373; }
+        #bottom .nav ul li a:hover {
+          text-decoration: underline; }
+  #bottom .last p {
+    text-align: center; }
+  #bottom .last p:nth-child(1) {
+    font-size: 16px;
+    line-height: 16px;
+    color: #bf0000;
+    padding-top: 20px;
+    font-weight: 700; }
+  #bottom .last p:nth-child(2) {
+    padding-top: 12px; }
+    #bottom .last p:nth-child(2) a {
+      font-size: 12px;
+      line-height: 12px;
+      color: #0055ac; }
+    #bottom .last p:nth-child(2) a:nth-child(1) {
+      padding-right: 6px;
+      border-right: 1px solid #666; }
+    #bottom .last p:nth-child(2) a:nth-child(2) {
+      padding-left: 6px; }
+  #bottom .last p:nth-child(3) {
+    font-size: 10px;
+    line-height: 10px;
+    padding-top: 10px;
+    color: #555; }

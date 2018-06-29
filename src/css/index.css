@@ -1,0 +1,1393 @@
+#Rakuten {
+  width: 1350px;
+  height: 100%; }
+  #Rakuten #logo {
+    height: 145px;
+    width: 100%; }
+    #Rakuten #logo .logo_l {
+      width: 850px;
+      height: 145px;
+      float: left; }
+      #Rakuten #logo .logo_l .logo_l_t {
+        height: 70px; }
+        #Rakuten #logo .logo_l .logo_l_t h1 {
+          width: 160px;
+          height: 70px;
+          text-indent: -1000px;
+          background: url("../img/logo.png") no-repeat;
+          float: left; }
+        #Rakuten #logo .logo_l .logo_l_t input {
+          display: block;
+          margin-top: 20px;
+          float: left; }
+        #Rakuten #logo .logo_l .logo_l_t .put1 {
+          width: 565px;
+          height: 40px;
+          border: 3px solid #BF0000;
+          padding-left: 5px;
+          font-size: 15px;
+          color: #666;
+          border-right: 0 none; }
+        #Rakuten #logo .logo_l .logo_l_t .put2 {
+          width: 44px;
+          height: 40px;
+          background: url(../img/sousuo.png) no-repeat; }
+        #Rakuten #logo .logo_l .logo_l_t .put2:hover {
+          cursor: pointer; }
+      #Rakuten #logo .logo_l .logo_l_b {
+        height: 75px; }
+        #Rakuten #logo .logo_l .logo_l_b .sp1 {
+          padding: 20px 0 0 20px;
+          font-size: 12px;
+          font-weight: 700px;
+          color: #C51D1D; }
+        #Rakuten #logo .logo_l .logo_l_b .sp2 {
+          font-size: 12px; }
+          #Rakuten #logo .logo_l .logo_l_b .sp2 a {
+            color: #666;
+            margin-right: 8px; }
+          #Rakuten #logo .logo_l .logo_l_b .sp2 a:hover {
+            color: #bf0000;
+            text-decoration: underline; }
+    #Rakuten #logo .logo_r {
+      float: left;
+      position: relative; }
+      #Rakuten #logo .logo_r ul {
+        height: 72px; }
+        #Rakuten #logo .logo_r ul li {
+          float: left; }
+          #Rakuten #logo .logo_r ul li #sel1 {
+            display: block;
+            border-color: #666;
+            background-color: #f7f7f7; }
+          #Rakuten #logo .logo_r ul li #sel2 {
+            display: block;
+            border-color: #666;
+            background-color: #f7f7f7; }
+          #Rakuten #logo .logo_r ul li #sel3 {
+            display: block;
+            border-color: #666;
+            background-color: #f7f7f7; }
+      #Rakuten #logo .logo_r .login {
+        font-size: 12px;
+        float: left;
+        color: #666;
+        margin-right: 15px; }
+        #Rakuten #logo .logo_r .login a {
+          color: blue; }
+      #Rakuten #logo .logo_r .shopping {
+        float: left; }
+        #Rakuten #logo .logo_r .shopping a {
+          color: #4F55BE;
+          font-size: 10px;
+          line-height: 14px; }
+      #Rakuten #logo .logo_r .btn {
+        float: left;
+        display: block;
+        width: 30px;
+        height: 30px;
+        background: url("../img/shopping.png") no-repeat;
+        position: absolute;
+        right: 140px;
+        top: 60px; }
+      #Rakuten #logo .logo_r .btn:hover {
+        cursor: pointer; }
+  #Rakuten #main {
+    width: 1350px;
+    height: 1450px;
+    overflow: hidden; }
+    #Rakuten #main .main_l {
+      width: 1015px;
+      height: 1450px;
+      float: left; }
+      #Rakuten #main .main_l .navBanner {
+        width: 1015px;
+        height: 500px;
+        overflow: hidden; }
+        #Rakuten #main .main_l .navBanner .nav {
+          width: 175px;
+          height: 500px;
+          float: left; }
+          #Rakuten #main .main_l .navBanner .nav h2 {
+            background-color: #666;
+            color: #fff;
+            font-size: 14px;
+            line-height: 30px;
+            height: 30px;
+            padding-left: 10px; }
+          #Rakuten #main .main_l .navBanner .nav .u1:hover {
+            border-right: 1px solid #ccc; }
+          #Rakuten #main .main_l .navBanner .nav .u1 li {
+            height: 30px;
+            padding-left: 35px;
+            position: relative; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li a {
+              font-size: 12px;
+              line-height: 30px;
+              color: #666; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li a:hover {
+              text-decoration: underline;
+              color: #bf0000; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .i1 {
+              display: block;
+              width: 22px;
+              height: 22px;
+              background: url("../img/sprites.png") no-repeat -50px 0;
+              position: absolute;
+              left: 10px;
+              top: 3px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .i2 {
+              display: block;
+              width: 22px;
+              height: 22px;
+              background: url("../img/sprites.png") no-repeat -80px 0;
+              position: absolute;
+              left: 10px;
+              top: 3px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .i3 {
+              display: block;
+              width: 22px;
+              height: 22px;
+              background: url("../img/sprites.png") no-repeat -120px 0;
+              position: absolute;
+              left: 10px;
+              top: 3px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .i4 {
+              display: block;
+              width: 22px;
+              height: 22px;
+              background: url("../img/sprites.png") no-repeat -150px 0;
+              position: absolute;
+              left: 10px;
+              top: 3px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .i5 {
+              display: block;
+              width: 22px;
+              height: 22px;
+              background: url("../img/sprites.png") no-repeat -180px 0;
+              position: absolute;
+              left: 10px;
+              top: 3px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .i6 {
+              display: block;
+              width: 22px;
+              height: 22px;
+              background: url("../img/sprites.png") no-repeat -210px 0;
+              position: absolute;
+              left: 10px;
+              top: 3px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .i7 {
+              display: block;
+              width: 22px;
+              height: 22px;
+              background: url("../img/sprites.png") no-repeat -240px 0;
+              position: absolute;
+              left: 10px;
+              top: 3px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .i8 {
+              display: block;
+              width: 22px;
+              height: 22px;
+              background: url("../img/sprites.png") no-repeat -270px 0;
+              position: absolute;
+              left: 10px;
+              top: 3px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .i9 {
+              display: block;
+              width: 22px;
+              height: 22px;
+              background: url("../img/sprites.png") no-repeat -300px 0;
+              position: absolute;
+              left: 10px;
+              top: 3px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .i10 {
+              display: block;
+              width: 22px;
+              height: 22px;
+              background: url("../img/sprites.png") no-repeat -330px 0;
+              position: absolute;
+              left: 10px;
+              top: 3px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .i11 {
+              display: block;
+              width: 22px;
+              height: 22px;
+              background: url("../img/sprites.png") no-repeat -360px 0;
+              position: absolute;
+              left: 10px;
+              top: 3px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .i12 {
+              display: block;
+              width: 22px;
+              height: 22px;
+              background: url("../img/sprites.png") no-repeat -390px 0;
+              position: absolute;
+              left: 10px;
+              top: 3px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .i13 {
+              display: block;
+              width: 22px;
+              height: 22px;
+              background: url("../img/sprites.png") no-repeat -420px 0;
+              position: absolute;
+              left: 10px;
+              top: 3px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .list1 {
+              display: none;
+              width: 785px;
+              height: 390px;
+              padding: 14px 20px;
+              border: 1px solid #ccc;
+              border-left: 0 none;
+              box-shadow: 3px 3px #CECECE;
+              background: url("../img/list1.png") no-repeat right bottom;
+              background-color: #fff;
+              position: absolute;
+              left: 175px;
+              top: 0px;
+              z-index: 100; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list1 h3 {
+                font-size: 24px;
+                color: #BF0000;
+                margin-bottom: 12px; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list1 ul {
+                float: left;
+                margin-right: 44px; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list1 ul li {
+                  padding: 0;
+                  height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list1 ul li a {
+                    color: #666;
+                    font-size: 12px;
+                    line-height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list1 ul li a:hover {
+                    color: #BF0000; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .list2 {
+              display: none;
+              width: 785px;
+              height: 390px;
+              padding: 14px 20px;
+              border: 1px solid #ccc;
+              border-left: 0 none;
+              box-shadow: 3px 3px #CECECE;
+              background: url("../img/list2.png") no-repeat right bottom;
+              background-color: #fff;
+              position: absolute;
+              left: 175px;
+              top: -30px;
+              z-index: 100; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list2 h3 {
+                font-size: 24px;
+                color: #BF0000;
+                margin-bottom: 12px; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list2 ul {
+                float: left;
+                margin-right: 44px; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list2 ul li {
+                  padding: 0;
+                  height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list2 ul li a {
+                    color: #666;
+                    font-size: 12px;
+                    line-height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list2 ul li a:hover {
+                    color: #BF0000; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list2 ul .ge1 {
+                  margin-top: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list2 ul .ge1 a {
+                    color: #BF0000; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list2 ul .ge2 {
+                  margin-top: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list2 ul .ge2 a {
+                    color: #BF0000; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list2 ul .color a {
+                  color: #BF0000; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .list3 {
+              display: none;
+              width: 785px;
+              height: 390px;
+              padding: 14px 20px;
+              border: 1px solid #ccc;
+              border-left: 0 none;
+              box-shadow: 3px 3px #CECECE;
+              background: url("../img/list3.png") no-repeat right bottom;
+              background-color: #fff;
+              position: absolute;
+              left: 175px;
+              top: -60px;
+              z-index: 100; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list3 h3 {
+                font-size: 24px;
+                color: #BF0000;
+                margin-bottom: 12px; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list3 ul {
+                float: left;
+                margin-right: 44px; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list3 ul li {
+                  padding: 0;
+                  height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list3 ul li a {
+                    color: #666;
+                    font-size: 12px;
+                    line-height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list3 ul li a:hover {
+                    color: #BF0000; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list3 ul .color a {
+                  color: #BF0000; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .list4 {
+              display: none;
+              width: 785px;
+              height: 390px;
+              padding: 14px 20px;
+              border: 1px solid #ccc;
+              border-left: 0 none;
+              box-shadow: 3px 3px #CECECE;
+              background: url("../img/list4.png") no-repeat right bottom;
+              background-color: #fff;
+              position: absolute;
+              left: 175px;
+              top: -90px;
+              z-index: 100; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list4 h3 {
+                font-size: 24px;
+                color: #BF0000;
+                margin-bottom: 12px; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list4 ul {
+                float: left;
+                margin-right: 44px; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list4 ul li {
+                  padding: 0;
+                  height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list4 ul li a {
+                    color: #666;
+                    font-size: 12px;
+                    line-height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list4 ul li a:hover {
+                    color: #BF0000; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .list5 {
+              display: none;
+              width: 785px;
+              height: 390px;
+              padding: 14px 20px;
+              border: 1px solid #ccc;
+              border-left: 0 none;
+              box-shadow: 3px 3px #CECECE;
+              background: url("../img/list5.png") no-repeat right bottom;
+              background-color: #fff;
+              position: absolute;
+              left: 175px;
+              top: -120px;
+              z-index: 100; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list5 h3 {
+                font-size: 24px;
+                color: #BF0000;
+                margin-bottom: 12px; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list5 ul {
+                float: left;
+                margin-right: 44px; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list5 ul li {
+                  padding: 0;
+                  height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list5 ul li a {
+                    color: #666;
+                    font-size: 12px;
+                    line-height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list5 ul li a:hover {
+                    color: #BF0000; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list5 ul .ge {
+                  margin-top: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list5 ul .ge a {
+                    color: #BF0000; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list5 ul .color a {
+                  color: #BF0000; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .list6 {
+              display: none;
+              width: 785px;
+              height: 390px;
+              padding: 14px 20px;
+              border: 1px solid #ccc;
+              border-left: 0 none;
+              box-shadow: 3px 3px #CECECE;
+              background: url("../img/list6.png") no-repeat right bottom;
+              background-color: #fff;
+              position: absolute;
+              left: 175px;
+              top: -150px;
+              z-index: 100; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list6 h3 {
+                font-size: 24px;
+                color: #BF0000;
+                margin-bottom: 12px; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list6 ul {
+                float: left;
+                margin-right: 44px; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list6 ul li {
+                  padding: 0;
+                  height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list6 ul li a {
+                    color: #666;
+                    font-size: 12px;
+                    line-height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list6 ul li a:hover {
+                    color: #BF0000; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .list7 {
+              display: none;
+              width: 785px;
+              height: 390px;
+              padding: 14px 20px;
+              border: 1px solid #ccc;
+              border-left: 0 none;
+              box-shadow: 3px 3px #CECECE;
+              background: url("../img/list7.png") no-repeat right bottom;
+              background-color: #fff;
+              position: absolute;
+              left: 175px;
+              top: -180px;
+              z-index: 100; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list7 h3 {
+                font-size: 24px;
+                color: #BF0000;
+                margin-bottom: 12px; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list7 ul {
+                float: left;
+                margin-right: 44px; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list7 ul li {
+                  padding: 0;
+                  height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list7 ul li a {
+                    color: #666;
+                    font-size: 12px;
+                    line-height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list7 ul li a:hover {
+                    color: #BF0000; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .list8 {
+              display: none;
+              width: 785px;
+              height: 390px;
+              padding: 14px 20px;
+              border: 1px solid #ccc;
+              border-left: 0 none;
+              box-shadow: 3px 3px #CECECE;
+              background: url("../img/list8.png") no-repeat right bottom;
+              background-color: #fff;
+              position: absolute;
+              left: 175px;
+              top: -210px;
+              z-index: 100; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list8 h3 {
+                font-size: 24px;
+                color: #BF0000;
+                margin-bottom: 12px; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list8 ul {
+                float: left;
+                margin-right: 44px; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list8 ul li {
+                  padding: 0;
+                  height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list8 ul li a {
+                    color: #666;
+                    font-size: 12px;
+                    line-height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list8 ul li a:hover {
+                    color: #BF0000; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list8 ul .ge {
+                  margin-top: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list8 ul .ge a {
+                    color: #BF0000; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list8 ul .color a {
+                  color: #BF0000; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .list9 {
+              display: none;
+              width: 785px;
+              height: 390px;
+              padding: 14px 20px;
+              border: 1px solid #ccc;
+              border-left: 0 none;
+              box-shadow: 3px 3px #CECECE;
+              background: url("../img/list9.png") no-repeat right bottom;
+              background-color: #fff;
+              position: absolute;
+              left: 175px;
+              top: -240px;
+              z-index: 100; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list9 h3 {
+                font-size: 24px;
+                color: #BF0000;
+                margin-bottom: 12px; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list9 ul {
+                float: left;
+                margin-right: 44px; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list9 ul li {
+                  padding: 0;
+                  height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list9 ul li a {
+                    color: #666;
+                    font-size: 12px;
+                    line-height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list9 ul li a:hover {
+                    color: #BF0000; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list9 ul .ge {
+                  margin-top: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list9 ul .ge a {
+                    color: #BF0000; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list9 ul .color a {
+                  color: #BF0000; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .list10 {
+              display: none;
+              width: 785px;
+              height: 390px;
+              padding: 14px 20px;
+              border: 1px solid #ccc;
+              border-left: 0 none;
+              box-shadow: 3px 3px #CECECE;
+              background: url("../img/list10.png") no-repeat right bottom;
+              background-color: #fff;
+              position: absolute;
+              left: 175px;
+              top: -270px;
+              z-index: 100; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list10 h3 {
+                font-size: 24px;
+                color: #BF0000;
+                margin-bottom: 12px; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list10 ul {
+                float: left;
+                margin-right: 44px; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list10 ul li {
+                  padding: 0;
+                  height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list10 ul li a {
+                    color: #666;
+                    font-size: 12px;
+                    line-height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list10 ul li a:hover {
+                    color: #BF0000; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .list11 {
+              display: none;
+              width: 785px;
+              height: 390px;
+              padding: 14px 20px;
+              border: 1px solid #ccc;
+              border-left: 0 none;
+              box-shadow: 3px 3px #CECECE;
+              background: url("../img/list11.png") no-repeat right bottom;
+              background-color: #fff;
+              position: absolute;
+              left: 175px;
+              top: -300px;
+              z-index: 100; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list11 h3 {
+                font-size: 24px;
+                color: #BF0000;
+                margin-bottom: 12px; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list11 ul {
+                float: left;
+                margin-right: 44px; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list11 ul li {
+                  padding: 0;
+                  height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list11 ul li a {
+                    color: #666;
+                    font-size: 12px;
+                    line-height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list11 ul li a:hover {
+                    color: #BF0000; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list11 ul .ge {
+                  margin-top: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list11 ul .ge a {
+                    color: #BF0000; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list11 ul .color a {
+                  color: #BF0000; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .list12 {
+              display: none;
+              width: 785px;
+              height: 390px;
+              padding: 14px 20px;
+              border: 1px solid #ccc;
+              border-left: 0 none;
+              box-shadow: 3px 3px #CECECE;
+              background: url("../img/list12.png") no-repeat right bottom;
+              background-color: #fff;
+              position: absolute;
+              left: 175px;
+              top: -330px;
+              z-index: 100; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list12 h3 {
+                font-size: 24px;
+                color: #BF0000;
+                margin-bottom: 12px; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list12 ul {
+                float: left;
+                margin-right: 44px; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list12 ul li {
+                  padding: 0;
+                  height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list12 ul li a {
+                    color: #666;
+                    font-size: 12px;
+                    line-height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list12 ul li a:hover {
+                    color: #BF0000; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list12 ul .ge {
+                  margin-top: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list12 ul .ge a {
+                    color: #BF0000; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list12 ul .color a {
+                  color: #BF0000; }
+            #Rakuten #main .main_l .navBanner .nav .u1 li .list13 {
+              display: none;
+              width: 785px;
+              height: 390px;
+              padding: 14px 20px;
+              border: 1px solid #ccc;
+              border-left: 0 none;
+              box-shadow: 3px 3px #CECECE;
+              background: url("../img/list13.png") no-repeat right bottom;
+              background-color: #fff;
+              position: absolute;
+              left: 175px;
+              top: -330px;
+              z-index: 100; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list13 h3 {
+                font-size: 24px;
+                color: #BF0000;
+                margin-bottom: 12px; }
+              #Rakuten #main .main_l .navBanner .nav .u1 li .list13 ul {
+                float: left;
+                margin-right: 44px; }
+                #Rakuten #main .main_l .navBanner .nav .u1 li .list13 ul li {
+                  padding: 0;
+                  height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list13 ul li a {
+                    color: #666;
+                    font-size: 12px;
+                    line-height: 20px; }
+                  #Rakuten #main .main_l .navBanner .nav .u1 li .list13 ul li a:hover {
+                    color: #BF0000; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l1:hover {
+            border: 1px solid #ccc;
+            border-right: 1px solid #fff;
+            margin: -1px;
+            margin-bottom: 1px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 .l1:hover .list1 {
+              display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l2:hover {
+            border: 1px solid #ccc;
+            border-right: 1px solid #fff;
+            margin: -1px;
+            margin-bottom: 1px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 .l2:hover .list2 {
+              display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l3:hover {
+            border: 1px solid #ccc;
+            border-right: 1px solid #fff;
+            margin: -1px;
+            margin-bottom: 1px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 .l3:hover .list3 {
+              display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l4:hover {
+            border: 1px solid #ccc;
+            border-right: 1px solid #fff;
+            margin: -1px;
+            margin-bottom: 1px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 .l4:hover .list4 {
+              display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l5:hover {
+            border: 1px solid #ccc;
+            border-right: 1px solid #fff;
+            margin: -1px;
+            margin-bottom: 1px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 .l5:hover .list2 {
+              display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l5:hover {
+            border: 1px solid #ccc;
+            border-right: 1px solid #fff;
+            margin: -1px;
+            margin-bottom: 1px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 .l5:hover .list2 {
+              display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l6:hover {
+            border: 1px solid #ccc;
+            border-right: 1px solid #fff;
+            margin: -1px;
+            margin-bottom: 1px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 .l6:hover .list6 {
+              display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l7:hover {
+            border: 1px solid #ccc;
+            border-right: 1px solid #fff;
+            margin: -1px;
+            margin-bottom: 1px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 .l7:hover .list7 {
+              display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l8:hover {
+            border: 1px solid #ccc;
+            border-right: 1px solid #fff;
+            margin: -1px;
+            margin-bottom: 1px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 .l8:hover .list8 {
+              display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l9:hover {
+            border: 1px solid #ccc;
+            border-right: 1px solid #fff;
+            margin: -1px;
+            margin-bottom: 1px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 .l9:hover .list9 {
+              display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l10:hover {
+            border: 1px solid #ccc;
+            border-right: 1px solid #fff;
+            margin: -1px;
+            margin-bottom: 1px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 .l10:hover .list10 {
+              display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l11:hover {
+            border: 1px solid #ccc;
+            border-right: 1px solid #fff;
+            margin: -1px;
+            margin-bottom: 1px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 .l11:hover .list11 {
+              display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l12:hover {
+            border: 1px solid #ccc;
+            border-right: 1px solid #fff;
+            margin: -1px;
+            margin-bottom: 1px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 .l12:hover .list12 {
+              display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l13:hover {
+            border: 1px solid #ccc;
+            border-right: 1px solid #fff;
+            margin: -1px;
+            margin-bottom: 1px; }
+            #Rakuten #main .main_l .navBanner .nav .u1 .l13:hover .list13 {
+              display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l3:hover .list3 {
+            display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l4:hover .list4 {
+            display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l5:hover .list5 {
+            display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l6:hover .list6 {
+            display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l7:hover .list7 {
+            display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l8:hover .list8 {
+            display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l9:hover .list9 {
+            display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l10:hover .list10 {
+            display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l11:hover .list11 {
+            display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l12:hover .list12 {
+            display: block; }
+          #Rakuten #main .main_l .navBanner .nav .u1 .l13:hover .list13 {
+            display: block; }
+          #Rakuten #main .main_l .navBanner .nav .youhui a {
+            font-size: 12px;
+            line-height: 30px;
+            color: #666;
+            padding-left: 10px; }
+          #Rakuten #main .main_l .navBanner .nav .youhui a:hover {
+            text-decoration: underline;
+            color: #bf0000; }
+        #Rakuten #main .main_l .navBanner .banner {
+          width: 840px;
+          height: 500px;
+          position: relative;
+          overflow: hidden;
+          float: left; }
+          #Rakuten #main .main_l .navBanner .banner .ULA {
+            width: 5880px;
+            height: 417px;
+            overflow: hidden;
+            position: absolute;
+            left: 0px;
+            top: 0px; }
+            #Rakuten #main .main_l .navBanner .banner .ULA li {
+              float: left; }
+              #Rakuten #main .main_l .navBanner .banner .ULA li img {
+                z-index: 10; }
+          #Rakuten #main .main_l .navBanner .banner .ULB {
+            width: 840px;
+            height: 83px;
+            position: absolute;
+            left: 0px;
+            right: 0px;
+            bottom: 0px; }
+            #Rakuten #main .main_l .navBanner .banner .ULB li {
+              float: left; }
+            #Rakuten #main .main_l .navBanner .banner .ULB .active {
+              border: 2px solid #fff;
+              margin: -2px;
+              opacity: 0.8; }
+      #Rakuten #main .main_l .hot {
+        width: 1015px;
+        height: 288px;
+        padding-left: 7px;
+        padding-top: 44px;
+        position: relative; }
+        #Rakuten #main .main_l .hot h2 {
+          font-size: 20px;
+          line-height: 20px;
+          padding-left: 20px;
+          color: #000;
+          margin-bottom: 13px; }
+        #Rakuten #main .main_l .hot .prev {
+          width: 20px;
+          height: 20px;
+          position: absolute;
+          left: 10px;
+          top: 125px;
+          cursor: pointer; }
+        #Rakuten #main .main_l .hot .next {
+          width: 20px;
+          height: 20px;
+          position: absolute;
+          right: 10px;
+          top: 125px;
+          cursor: pointer; }
+        #Rakuten #main .main_l .hot .goods {
+          width: 1015px;
+          height: 180px;
+          overflow: hidden;
+          position: relative; }
+          #Rakuten #main .main_l .hot .goods ul {
+            width: 1215px;
+            height: 180px;
+            padding-left: 35px;
+            position: absolute;
+            left: 0px;
+            top: 0px; }
+            #Rakuten #main .main_l .hot .goods ul li {
+              margin-right: 70px;
+              float: left; }
+              #Rakuten #main .main_l .hot .goods ul li a {
+                display: block;
+                width: 128px;
+                cursor: pointer; }
+                #Rakuten #main .main_l .hot .goods ul li a p {
+                  font-size: 14px;
+                  line-height: 14px;
+                  margin-top: 10px;
+                  color: #666;
+                  text-align: center;
+                  margin-bottom: 30px; }
+              #Rakuten #main .main_l .hot .goods ul li a:hover img {
+                opacity: 0.8; }
+              #Rakuten #main .main_l .hot .goods ul li a:hover p {
+                color: #bf0000;
+                text-decoration: underline; }
+            #Rakuten #main .main_l .hot .goods ul .show {
+              display: block; }
+            #Rakuten #main .main_l .hot .goods ul .feishow {
+              display: none; }
+      #Rakuten #main .main_l .recommend {
+        width: 1015px;
+        height: 288px;
+        padding-left: 7px;
+        padding-top: 24px;
+        position: relative; }
+        #Rakuten #main .main_l .recommend h2 {
+          font-size: 20px;
+          line-height: 20px;
+          padding-left: 20px;
+          color: #000;
+          margin-bottom: 13px; }
+        #Rakuten #main .main_l .recommend .prev2 {
+          width: 20px;
+          height: 20px;
+          position: absolute;
+          left: 10px;
+          top: 105px;
+          cursor: pointer; }
+        #Rakuten #main .main_l .recommend .next2 {
+          width: 20px;
+          height: 20px;
+          position: absolute;
+          right: 10px;
+          top: 105px;
+          cursor: pointer; }
+        #Rakuten #main .main_l .recommend .goods2 {
+          width: 1015px;
+          height: 180px;
+          overflow: hidden;
+          position: relative; }
+          #Rakuten #main .main_l .recommend .goods2 ul {
+            width: 1215px;
+            height: 180px;
+            padding-left: 35px;
+            position: absolute;
+            left: 0px;
+            top: 0px; }
+            #Rakuten #main .main_l .recommend .goods2 ul li {
+              margin-right: 70px;
+              float: left; }
+              #Rakuten #main .main_l .recommend .goods2 ul li a {
+                display: block;
+                width: 128px;
+                cursor: pointer; }
+                #Rakuten #main .main_l .recommend .goods2 ul li a p {
+                  font-size: 14px;
+                  line-height: 14px;
+                  margin-top: 10px;
+                  color: #666;
+                  text-align: center;
+                  margin-bottom: 30px; }
+                #Rakuten #main .main_l .recommend .goods2 ul li a img {
+                  width: 128px;
+                  height: 129px; }
+              #Rakuten #main .main_l .recommend .goods2 ul li a:hover img {
+                opacity: 0.8; }
+              #Rakuten #main .main_l .recommend .goods2 ul li a:hover p {
+                color: #bf0000;
+                text-decoration: underline; }
+            #Rakuten #main .main_l .recommend .goods2 ul .show2 {
+              display: block; }
+            #Rakuten #main .main_l .recommend .goods2 ul .feishow2 {
+              display: none; }
+      #Rakuten #main .main_l .ranking {
+        width: 1015px;
+        height: 324px; }
+        #Rakuten #main .main_l .ranking h3 {
+          height: 58px; }
+          #Rakuten #main .main_l .ranking h3 span:nth-child(1) {
+            float: left;
+            font-size: 20px;
+            line-height: 46px;
+            padding-top: 12px;
+            padding-left: 32px; }
+          #Rakuten #main .main_l .ranking h3 span:nth-child(2) {
+            float: right;
+            font-size: 12px;
+            line-height: 44px;
+            padding-top: 14px;
+            padding-right: 20px; }
+        #Rakuten #main .main_l .ranking .kindList {
+          height: 32px;
+          width: 1015px;
+          padding-left: 50px;
+          padding-right: 50px;
+          position: relative; }
+          #Rakuten #main .main_l .ranking .kindList .lei {
+            width: 915px;
+            height: 32px;
+            overflow: hidden;
+            position: relative; }
+            #Rakuten #main .main_l .ranking .kindList .lei ul {
+              width: 1215px;
+              height: 32px;
+              position: absolute;
+              left: 0px;
+              top: 0px; }
+              #Rakuten #main .main_l .ranking .kindList .lei ul li {
+                float: left;
+                display: block;
+                padding: 0 16px;
+                border: 1px solid #e9e9e9;
+                color: #ccc;
+                border-radius: 3px;
+                margin-right: 16px;
+                font-size: 12px;
+                line-height: 30px; }
+          #Rakuten #main .main_l .ranking .kindList .prev {
+            width: 20px;
+            height: 20px;
+            position: absolute;
+            left: 10px;
+            top: 2px;
+            cursor: pointer; }
+          #Rakuten #main .main_l .ranking .kindList .next {
+            width: 20px;
+            height: 20px;
+            position: absolute;
+            right: 10px;
+            top: 2px;
+            cursor: pointer; }
+          #Rakuten #main .main_l .ranking .kindList .goods .kind_goods1 {
+            display: block; }
+          #Rakuten #main .main_l .ranking .kindList .goods .kind_goods2 {
+            display: none; }
+          #Rakuten #main .main_l .ranking .kindList .goods .kind_goods3 {
+            display: none; }
+          #Rakuten #main .main_l .ranking .kindList .goods .kind_goods4 {
+            display: none; }
+          #Rakuten #main .main_l .ranking .kindList .goods .kind_goods5 {
+            display: none; }
+          #Rakuten #main .main_l .ranking .kindList .goods .kind_goods6 {
+            display: none; }
+          #Rakuten #main .main_l .ranking .kindList .goods .kind_goods7 {
+            display: none; }
+          #Rakuten #main .main_l .ranking .kindList .goods .kind_goods8 {
+            display: none; }
+          #Rakuten #main .main_l .ranking .kindList .goods .kind_goods9 {
+            display: none; }
+          #Rakuten #main .main_l .ranking .kindList .goods .kind_goods10 {
+            display: none; }
+          #Rakuten #main .main_l .ranking .kindList .goods .kind_goods11 {
+            display: none; }
+          #Rakuten #main .main_l .ranking .kindList .goods .kind_goods12 {
+            display: none; }
+          #Rakuten #main .main_l .ranking .kindList .goods .kind_goods {
+            width: 1015px;
+            height: 250px; }
+            #Rakuten #main .main_l .ranking .kindList .goods .kind_goods ul {
+              overflow: hidden; }
+              #Rakuten #main .main_l .ranking .kindList .goods .kind_goods ul li {
+                width: 128px;
+                margin-right: 8px;
+                float: left; }
+                #Rakuten #main .main_l .ranking .kindList .goods .kind_goods ul li .p1 {
+                  font-size: 14px;
+                  line-height: 44px;
+                  font-weight: 700;
+                  color: #bf0000;
+                  position: relative; }
+                  #Rakuten #main .main_l .ranking .kindList .goods .kind_goods ul li .p1 .i1 {
+                    display: block;
+                    width: 22px;
+                    height: 22px;
+                    background: url("../img/sprites.png") no-repeat -520px 0;
+                    position: absolute;
+                    left: 0px;
+                    top: 10px; }
+                  #Rakuten #main .main_l .ranking .kindList .goods .kind_goods ul li .p1 .i2 {
+                    display: block;
+                    width: 22px;
+                    height: 22px;
+                    background: url("../img/sprites.png") no-repeat -550px 0;
+                    position: absolute;
+                    left: 0px;
+                    top: 10px; }
+                  #Rakuten #main .main_l .ranking .kindList .goods .kind_goods ul li .p1 .i3 {
+                    display: block;
+                    width: 22px;
+                    height: 22px;
+                    background: url("../img/sprites.png") no-repeat -580px 0;
+                    position: absolute;
+                    left: 0px;
+                    top: 10px; }
+                  #Rakuten #main .main_l .ranking .kindList .goods .kind_goods ul li .p1 span {
+                    padding-left: 30px; }
+                #Rakuten #main .main_l .ranking .kindList .goods .kind_goods ul li .p2 {
+                  width: 128px;
+                  height: 40px;
+                  overflow: hidden;
+                  text-overflow: ellipsis;
+                  white-space: normal;
+                  font-size: 12px;
+                  line-height: 18px;
+                  color: #0055ac; }
+                #Rakuten #main .main_l .ranking .kindList .goods .kind_goods ul li .p3 {
+                  font-size: 12px;
+                  color: #999; }
+                #Rakuten #main .main_l .ranking .kindList .goods .kind_goods ul li .tu {
+                  margin-bottom: 32px; }
+              #Rakuten #main .main_l .ranking .kindList .goods .kind_goods ul li:nth-child(1) .p1 {
+                color: goldenrod; }
+              #Rakuten #main .main_l .ranking .kindList .goods .kind_goods ul li:nth-child(2) .p1 {
+                color: silver; }
+              #Rakuten #main .main_l .ranking .kindList .goods .kind_goods ul li:nth-child(3) .p1 {
+                color: chocolate; }
+    #Rakuten #main .main_r {
+      width: 335px;
+      height: 1450px;
+      float: left; }
+      #Rakuten #main .main_r .ad {
+        height: 781px;
+        border-bottom: 1px solid #666; }
+        #Rakuten #main .main_r .ad ul li a {
+          display: block; }
+        #Rakuten #main .main_r .ad ul li a:hover {
+          opacity: 0.8; }
+      #Rakuten #main .main_r .brand {
+        height: 272px;
+        border-bottom: 1px solid #c3c3c3;
+        background-color: #ECECEC;
+        overflow: hidden; }
+        #Rakuten #main .main_r .brand h3 {
+          font-size: 16px;
+          line-height: 16px;
+          padding-top: 30px;
+          margin-bottom: 16px;
+          text-align: center;
+          color: #000; }
+        #Rakuten #main .main_r .brand ul {
+          padding: 0 20px;
+          overflow: hidden; }
+          #Rakuten #main .main_r .brand ul li {
+            float: left;
+            margin-bottom: 8px; }
+          #Rakuten #main .main_r .brand ul .last {
+            margin-right: 9px; }
+      #Rakuten #main .main_r .hotBrand {
+        width: 335px;
+        height: 370px;
+        padding: 0 20px;
+        background-color: #ECECEC; }
+        #Rakuten #main .main_r .hotBrand h3 {
+          font-size: 16px;
+          line-height: 40px;
+          text-align: center;
+          color: #000; }
+        #Rakuten #main .main_r .hotBrand ul li {
+          float: left;
+          border-radius: 50%; }
+          #Rakuten #main .main_r .hotBrand ul li a {
+            width: 128px;
+            height: 158px;
+            display: block; }
+            #Rakuten #main .main_r .hotBrand ul li a img {
+              width: 128px;
+              height: 128px; }
+            #Rakuten #main .main_r .hotBrand ul li a p {
+              font-size: 13px;
+              line-height: 30px;
+              color: #737373;
+              text-align: center; }
+          #Rakuten #main .main_r .hotBrand ul li a:hover {
+            opacity: 0.8; }
+          #Rakuten #main .main_r .hotBrand ul li a:hover p {
+            text-decoration: underline;
+            color: #bf0000; }
+        #Rakuten #main .main_r .hotBrand ul .last {
+          margin-right: 35px; }
+  #Rakuten #goodsList .goodsList_1 {
+    height: 200px; }
+    #Rakuten #goodsList .goodsList_1 ul li {
+      float: left;
+      margin-right: 10px; }
+    #Rakuten #goodsList .goodsList_1 ul li:hover {
+      opacity: 0.8; }
+    #Rakuten #goodsList .goodsList_1 ul .last {
+      margin-right: 0; }
+  #Rakuten #goodsList .goodsList_2 {
+    overflow: hidden; }
+    #Rakuten #goodsList .goodsList_2 .goods_1 {
+      width: 330px;
+      height: 378px;
+      margin-right: 10px;
+      float: left;
+      background-color: #fff; }
+      #Rakuten #goodsList .goodsList_2 .goods_1 ul li {
+        width: 165px;
+        height: 188px;
+        text-align: center;
+        float: left; }
+        #Rakuten #goodsList .goodsList_2 .goods_1 ul li p {
+          font-size: 14px;
+          line-height: 58px; }
+      #Rakuten #goodsList .goodsList_2 .goods_1 ul li:nth-child(1) {
+        border-right: 2px solid #60DCB8;
+        border-bottom: 2px solid #60DCB8; }
+      #Rakuten #goodsList .goodsList_2 .goods_1 ul li:nth-child(2) {
+        border-bottom: 2px solid #60DCB8; }
+      #Rakuten #goodsList .goodsList_2 .goods_1 ul li:nth-child(3) {
+        border-right: 2px solid #60DCB8; }
+    #Rakuten #goodsList .goodsList_2 .goods_2 {
+      width: 330px;
+      height: 378px;
+      margin-right: 10px;
+      float: left;
+      background-color: #fff; }
+      #Rakuten #goodsList .goodsList_2 .goods_2 ul li {
+        width: 165px;
+        height: 188px;
+        text-align: center;
+        float: left; }
+        #Rakuten #goodsList .goodsList_2 .goods_2 ul li p {
+          font-size: 14px;
+          line-height: 58px; }
+      #Rakuten #goodsList .goodsList_2 .goods_2 ul li:nth-child(1) {
+        border-right: 2px solid #FEB624;
+        border-bottom: 2px solid #FEB624; }
+      #Rakuten #goodsList .goodsList_2 .goods_2 ul li:nth-child(2) {
+        border-bottom: 2px solid #FEB624; }
+      #Rakuten #goodsList .goodsList_2 .goods_2 ul li:nth-child(3) {
+        border-right: 2px solid #FEB624; }
+    #Rakuten #goodsList .goodsList_2 .goods_3 {
+      width: 330px;
+      height: 378px;
+      margin-right: 10px;
+      float: left;
+      background-color: #fff; }
+      #Rakuten #goodsList .goodsList_2 .goods_3 ul li {
+        width: 165px;
+        height: 188px;
+        text-align: center;
+        float: left; }
+        #Rakuten #goodsList .goodsList_2 .goods_3 ul li p {
+          font-size: 14px;
+          line-height: 58px; }
+      #Rakuten #goodsList .goodsList_2 .goods_3 ul li:nth-child(1) {
+        border-right: 2px solid #FF63BE;
+        border-bottom: 2px solid #FF63BE; }
+      #Rakuten #goodsList .goodsList_2 .goods_3 ul li:nth-child(2) {
+        border-bottom: 2px solid #FF63BE; }
+      #Rakuten #goodsList .goodsList_2 .goods_3 ul li:nth-child(3) {
+        border-right: 2px solid #FF63BE; }
+    #Rakuten #goodsList .goodsList_2 .goods_4 {
+      width: 330px;
+      height: 378px;
+      float: left;
+      background-color: #fff; }
+      #Rakuten #goodsList .goodsList_2 .goods_4 ul li {
+        width: 165px;
+        height: 188px;
+        text-align: center;
+        float: left; }
+        #Rakuten #goodsList .goodsList_2 .goods_4 ul li p {
+          font-size: 14px;
+          line-height: 58px; }
+      #Rakuten #goodsList .goodsList_2 .goods_4 ul li:nth-child(1) {
+        border-right: 2px solid #FE6869;
+        border-bottom: 2px solid #FE6869; }
+      #Rakuten #goodsList .goodsList_2 .goods_4 ul li:nth-child(2) {
+        border-bottom: 2px solid #FE6869; }
+      #Rakuten #goodsList .goodsList_2 .goods_4 ul li:nth-child(3) {
+        border-right: 2px solid #FE6869; }
+  #Rakuten #goodsList .goodsList_3 {
+    overflow: hidden; }
+    #Rakuten #goodsList .goodsList_3 .goods1 {
+      width: 330px;
+      height: 118px;
+      float: left;
+      background-color: #BAE6D9;
+      margin-right: 10px; }
+      #Rakuten #goodsList .goodsList_3 .goods1 ul li {
+        float: left;
+        padding-left: 12px;
+        padding-top: 7px; }
+    #Rakuten #goodsList .goodsList_3 .goods2 {
+      width: 330px;
+      height: 118px;
+      float: left;
+      background-color: #fff4dd;
+      margin-right: 10px; }
+      #Rakuten #goodsList .goodsList_3 .goods2 ul li {
+        float: left;
+        padding-left: 12px;
+        padding-top: 7px; }
+    #Rakuten #goodsList .goodsList_3 .goods3 {
+      width: 330px;
+      height: 118px;
+      float: left;
+      background-color: #ffc4e4;
+      margin-right: 10px; }
+      #Rakuten #goodsList .goodsList_3 .goods3 ul li {
+        float: left;
+        padding-left: 12px;
+        padding-top: 7px; }
+    #Rakuten #goodsList .goodsList_3 .goods4 {
+      width: 330px;
+      height: 118px;
+      float: left;
+      background-color: #FD9999; }
+      #Rakuten #goodsList .goodsList_3 .goods4 ul li {
+        float: left;
+        padding-left: 12px;
+        padding-top: 7px; }
+  #Rakuten #goodsList .goodsList_4 {
+    width: 1350px;
+    height: 152px; }
+    #Rakuten #goodsList .goodsList_4 .goods {
+      width: 330px;
+      height: 152px;
+      float: left;
+      margin-right: 10px;
+      background-color: #ECECEC; }
+      #Rakuten #goodsList .goodsList_4 .goods ul li {
+        float: left;
+        padding-left: 30px;
+        text-align: center;
+        font-size: 14px;
+        line-height: 50px; }
+        #Rakuten #goodsList .goodsList_4 .goods ul li a {
+          color: #737373; }
+        #Rakuten #goodsList .goodsList_4 .goods ul li a:hover {
+          color: #bf0000;
+          text-decoration: underline; }
+    #Rakuten #goodsList .goodsList_4 .goods4 {
+      margin-right: 0; }
+  #Rakuten #serve {
+    width: 1350px;
+    height: 272px; }
+    #Rakuten #serve .serve_t {
+      height: 152px; }
+      #Rakuten #serve .serve_t ul li {
+        margin: 57px 0 53px 0;
+        height: 42px;
+        width: 450px;
+        float: left;
+        border-right: 1px solid #ccc;
+        position: relative; }
+        #Rakuten #serve .serve_t ul li a:hover p {
+          text-decoration: underline;
+          color: #bf0000; }
+        #Rakuten #serve .serve_t ul li a p {
+          padding-left: 100px;
+          padding-right: 28px;
+          font-size: 12px;
+          line-height: 21px;
+          color: #737373; }
+        #Rakuten #serve .serve_t ul li a p:nth-child(2) {
+          color: #bf0000;
+          font-weight: 700;
+          font-size: 14px;
+          line-height: 21px; }
+        #Rakuten #serve .serve_t ul li a .i1 {
+          display: block;
+          width: 65px;
+          height: 55px;
+          background: url("../img/sprites.png") no-repeat 0 -50px;
+          position: absolute;
+          left: 25px;
+          top: -5px; }
+        #Rakuten #serve .serve_t ul li a .i2 {
+          display: block;
+          width: 65px;
+          height: 55px;
+          background: url("../img/sprites.png") no-repeat -80px -50px;
+          position: absolute;
+          left: 25px;
+          top: -5px; }
+        #Rakuten #serve .serve_t ul li a .i3 {
+          display: block;
+          width: 65px;
+          height: 55px;
+          background: url("../img/sprites.png") no-repeat -150px -50px;
+          position: absolute;
+          left: 25px;
+          top: -5px; }
+      #Rakuten #serve .serve_t ul li:nth-child(3) {
+        border-right: 0 none; }
+    #Rakuten #serve .serve_b {
+      width: 1350px;
+      height: 100px;
+      margin-bottom: 20px; }
+      #Rakuten #serve .serve_b img {
+        display: block;
+        margin: 0 auto; }
+  #Rakuten #dibu {
+    width: 1350px;
+    height: 176px; }
+    #Rakuten #dibu ul {
+      width: 1350px;
+      height: 76px;
+      overflow: hidden; }
+      #Rakuten #dibu ul li {
+        float: left;
+        margin-right: 55px; }
+        #Rakuten #dibu ul li a {
+          padding-top: 18px;
+          color: #0000EE;
+          font-size: 14px;
+          line-height: 58px; }
+      #Rakuten #dibu ul li:nth-child(1) {
+        margin-left: 106px; }
+    #Rakuten #dibu .img {
+      width: 168px;
+      height: 70px;
+      display: block;
+      margin: 0 auto; }

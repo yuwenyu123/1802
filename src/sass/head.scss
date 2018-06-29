@@ -1,0 +1,185 @@
+#head{
+    width:1350px;
+    height:30px;
+    color:#fff;
+    background-color:#666;
+    .head_l{
+        width:675px;
+        float:left;
+        p{
+            font-size:14px;
+            line-height:30px;
+            padding-left:10px;
+        }
+    }
+    .head_r{
+        width:675px;
+        float:right;
+        >ul{
+            float:right;
+            margin-right:5px;
+            >li{
+                float:left;
+                cursor:pointer;
+                >p{
+                    padding:0 8px;
+                    font-size:12px;
+                    line-height:30px;
+                }
+            }
+            li:hover{
+                background-color:#ABABAB;
+            }
+            .l1{
+                position:relative;
+                .code{
+                    width:79px;
+                    height:100px;
+                    border:1px solid #686868;
+                    box-shadow:3px 3px #CECECE;
+                    background-color:#fff;
+                    z-index:100;
+                    display:none;
+                    position:absolute;
+                    right:0px;
+                    top:30px;
+                    p{
+                        text-align:center;
+                        color:#737373;
+                        font-size:13px;
+                    }
+                    img{
+                        width:66px;
+                        height:66px;
+                        border:0 none;
+                        display:block;
+                        margin:0 auto;
+                    }
+                }
+            }
+            .l1:hover .code{
+                display:block;
+            }
+            .l2{
+                .a22{
+                    display:block;
+                    color:#fff;
+                    padding:0 8px;
+                    font-size:12px;
+                    line-height:30px;
+                }
+            }
+            .l3{
+                position:relative;
+                .discounts{
+                    display:none;
+                    z-index:100;
+                    background-color:#fff;
+                    width:1200px;
+                    height:224px;
+                    border:1px solid #686868;
+                    box-shadow:3px 3px #CECECE;
+                    cursor:auto;
+                    position:absolute;
+                    right:0px;
+                    top:30px;
+                    .p2{
+                        font-size:14px;
+                        line-height:14px;
+                        font-weight:700;
+                        color:#666;
+                        text-align:left;
+                        padding:5px 0 5px 15px;
+                    }
+                    ul{
+                        padding:0 20px;
+                        li{
+                            float:left;
+                            width:19%;
+                            color:#666;
+                            margin:0 0.5%;
+                            img{
+                                width:100%;
+                            }
+                            .p1{
+                                font-size:12px;
+                                line-height:18px;
+                                color:#666;
+                                padding-top:10px;
+                            }
+                        }
+                        li:hover{
+                            .a33{
+                                display:block;
+                                background-color:#fff;
+                                .p1{
+                                    text-decoration:underline;
+                                    color:#bf0000;
+                                }
+                            }
+                        }
+                    }
+                    .last{
+                        float:right;
+                        margin-right:15px;
+                        .abc{
+                            color:#666;
+                        }
+                        .abc:hover{
+                            text-decoration:underline;
+                            color:#bf0000;
+                        }
+                    }
+                }
+            }
+            .l3:hover .discounts{
+                display:block;
+            }
+            .l4{
+                position:relative;
+                .help{
+                    width:360px;
+                    height:224px;
+                    padding:7px 23px 10px;
+                    border:1px solid #686868;
+                    box-shadow:3px 3px #CECECE;
+                    display:none;
+                    z-index:100;
+                    background-color:#fff;
+                    position:absolute;
+                    right:0px;
+                    top:30px;
+                    p{
+                        color:#666;
+                        font-size:14px;
+                        font-weight:700px;
+                        padding-bottom:3px;
+                        border-bottom:1px solid #DBDBDB;
+                    }
+                    ul{
+                        float:left;
+                        font-size:14px;
+                        li{
+                            padding:9px 0 2px;
+                            cursor:auto;
+                            a{
+                                color:#666;
+                                display:block;
+                            }
+                        }
+                        li:hover{
+                            background-color:#fff;
+                        }
+                    }
+                    .u1{
+                        margin-right:60px;
+                    }
+                }
+            }
+            .l4:hover .help{
+                display:block;
+            }
+        }
+    }
+}
+    

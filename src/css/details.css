@@ -1,0 +1,155 @@
+#list_logo .container {
+  width: 950px;
+  height: 70px;
+  overflow: hidden;
+  position: relative; }
+  #list_logo .container h1 {
+    width: 160px;
+    height: 70px;
+    text-indent: -1000px;
+    background: url("../img/logo.png") no-repeat;
+    float: left;
+    margin-right: 550px;
+    cursor: pointer; }
+  #list_logo .container p {
+    float: left;
+    padding-top: 36px; }
+  #list_logo .container .p1 {
+    margin-right: 16px; }
+    #list_logo .container .p1 span {
+      font-size: 14px;
+      line-height: 14px;
+      color: #666666; }
+      #list_logo .container .p1 span a {
+        color: #0000EE;
+        font-size: 14px;
+        line-height: 14px; }
+  #list_logo .container .p2 a {
+    font-size: 13px;
+    line-height: 13px;
+    color: #0055ac; }
+  #list_logo .container img {
+    height: 30px;
+    position: absolute;
+    right: 0px;
+    top: 0px; }
+
+#list_nav {
+  background-color: #bf0000; }
+  #list_nav .container {
+    height: 44px;
+    position: relative; }
+    #list_nav .container .box {
+      width: 145px;
+      height: 44px;
+      color: #fff;
+      font-size: 12px;
+      line-height: 44px;
+      text-align: center;
+      cursor: pointer;
+      float: left; }
+    #list_nav .container img {
+      float: left; }
+    #list_nav .container img:nth-child(3) {
+      margin-top: 5px; }
+    #list_nav .container img:nth-child(4) {
+      margin-top: 5px;
+      cursor: pointer; }
+    #list_nav .container .box:hover {
+      background-color: #b50000; }
+    #list_nav .container .box_2 {
+      display: none;
+      width: 160px;
+      border: 1px solid #ccc;
+      box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+      background-color: #fff;
+      padding: 4px 2px;
+      z-index: 100;
+      position: absolute;
+      left: 0px;
+      top: 46px; }
+      #list_nav .container .box_2 ul .li1 {
+        position: relative; }
+      #list_nav .container .box_2 ul .li1:hover ul {
+        display: block; }
+      #list_nav .container .box_2 ul .li2 {
+        position: relative; }
+      #list_nav .container .box_2 ul .li2:hover ul {
+        display: block; }
+      #list_nav .container .box_2 ul .li3 {
+        position: relative; }
+      #list_nav .container .box_2 ul .li3:hover ul {
+        display: block; }
+      #list_nav .container .box_2 ul .li4 {
+        position: relative; }
+      #list_nav .container .box_2 ul .li4:hover ul {
+        display: block; }
+      #list_nav .container .box_2 ul .li5 {
+        position: relative; }
+      #list_nav .container .box_2 ul .li5:hover ul {
+        display: block; }
+      #list_nav .container .box_2 ul .li6 {
+        position: relative; }
+      #list_nav .container .box_2 ul .li6:hover ul {
+        display: block; }
+      #list_nav .container .box_2 ul .li p {
+        height: 28px;
+        color: #515151;
+        font-size: 12px;
+        line-height: 18px;
+        padding: 5px 10px; }
+      #list_nav .container .box_2 ul .li ul {
+        display: none;
+        width: 170px;
+        border: 1px solid #ccc;
+        background-color: #fff;
+        padding: 4px 2px;
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.15);
+        position: absolute;
+        left: 155px;
+        top: 0px; }
+        #list_nav .container .box_2 ul .li ul li {
+          height: 28px;
+          color: #515151;
+          font-size: 12px;
+          line-height: 18px;
+          padding: 5px 0px 5px 10px; }
+        #list_nav .container .box_2 ul .li ul li:hover {
+          background-color: #f7f7f7;
+          color: #000; }
+      #list_nav .container .box_2 ul li:hover {
+        color: #bf0000; }
+
+#details_main {
+  height: 350px; }
+  #details_main .container {
+    height: 1000px;
+    overflow: hidden; }
+    #details_main .container .main_l {
+      width: 350px;
+      height: 350px;
+      float: left; }
+      #details_main .container .main_l img {
+        width: 350px;
+        height: 350px; }
+    #details_main .container .main_r {
+      width: 600px;
+      height: 350px;
+      float: left; }
+      #details_main .container .main_r h4 {
+        text-align: center;
+        height: 80px;
+        font-size: 30px;
+        color: #bf0000;
+        line-height: 80px;
+        font-weight: 700; }
+      #details_main .container .main_r p {
+        padding-left: 100px;
+        font-size: 16px;
+        line-height: 30px;
+        color: #bf0000;
+        font-weight: 700; }
+        #details_main .container .main_r p span {
+          font-size: 14px;
+          line-height: 30px;
+          color: #000; }
